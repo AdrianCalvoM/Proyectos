@@ -1,0 +1,48 @@
+body{
+    font-size: 20px;
+    font-family: serif, Verdana;
+    text-align: justify;
+    padding: 0.5em 10em;
+
+}
+h1{
+    color: green;
+    text-align: center;
+    background-color:lightgreen;
+    border-style: solid;
+    border-width: 4px 10px;
+}
+h2{
+    color:green;
+    text-align: center;
+    background-color:lightgreen;
+    border-style: solid;
+    border-width: 4px 10px;
+}
+.lista{
+    text-align: justify;
+    border-style: solid;
+    border-width: 4px 10px;
+    border-color: green;
+    padding: 0.5em 1em;
+}
+.lugar{
+    border-left-style: solid;
+    color: lightgreen;
+ }
+strong{
+    color: green;
+}
+/*img{
+    height: 250px;
+    width: 200px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightgreen;
+}*/
+footer{
+    background-color: lightgreen;
+}
+#Datos{
+    text-align: justify;
+}
