@@ -33,18 +33,22 @@ h2{
 strong{
     color: green;
 }
-/*img{
-    height: 250px;
-    width: 200px;
+img{
+    height: 200px;
+    width: 150px;
     border-style: solid;
     border-width: 2px;
     border-color: lightgreen;
-}*/
+    float: right;
+}
 footer{
     background-color: lightgreen;
 }
 #Datos{
     text-align: justify;
+}
+a{
+    color: green;
 }
 a:hover{
     color: green;
